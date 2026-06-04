@@ -61,3 +61,6 @@ python fix_faiss_error.py
 - [FAISS](https://github.com/facebookresearch/faiss)
 - [OpenAI](https://platform.openai.com/docs/)
 - [Sentence Transformers](https://www.sbert.net/)
+
+## Author
+Soujanya S P
